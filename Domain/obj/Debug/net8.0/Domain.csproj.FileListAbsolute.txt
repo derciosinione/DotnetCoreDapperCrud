@@ -1,0 +1,12 @@
+/Users/derciosinione/Developer/CrudApi/Domain/bin/Debug/net8.0/Domain.deps.json
+/Users/derciosinione/Developer/CrudApi/Domain/bin/Debug/net8.0/Domain.dll
+/Users/derciosinione/Developer/CrudApi/Domain/bin/Debug/net8.0/Domain.pdb
+/Users/derciosinione/Developer/CrudApi/Domain/obj/Debug/net8.0/Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/derciosinione/Developer/CrudApi/Domain/obj/Debug/net8.0/Domain.AssemblyInfoInputs.cache
+/Users/derciosinione/Developer/CrudApi/Domain/obj/Debug/net8.0/Domain.AssemblyInfo.cs
+/Users/derciosinione/Developer/CrudApi/Domain/obj/Debug/net8.0/Domain.csproj.CoreCompileInputs.cache
+/Users/derciosinione/Developer/CrudApi/Domain/obj/Debug/net8.0/Domain.sourcelink.json
+/Users/derciosinione/Developer/CrudApi/Domain/obj/Debug/net8.0/Domain.dll
+/Users/derciosinione/Developer/CrudApi/Domain/obj/Debug/net8.0/refint/Domain.dll
+/Users/derciosinione/Developer/CrudApi/Domain/obj/Debug/net8.0/Domain.pdb
+/Users/derciosinione/Developer/CrudApi/Domain/obj/Debug/net8.0/ref/Domain.dll
